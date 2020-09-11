@@ -1,2 +1,2 @@
-7times.do 
+7.times do 
 
